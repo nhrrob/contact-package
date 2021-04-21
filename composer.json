@@ -15,5 +15,12 @@
         "psr-4": {
             "Nhrrob\\Contact\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Nhrrob\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
