@@ -1,7 +1,6 @@
 # Contact Form Package from NHRROB
 
 <p align="left">
-<a href="https://travis-ci.org/nhrrob/contact"><img src="https://travis-ci.org/nhrrob/contact.svg" alt="Build Status"></a>
 <a href="https://github.com/nhrrob/contact-package/stargazers"><img src="https://img.shields.io/github/stars/nhrrob/contact-package?style=flat-square" alt="Stars"></a>
 <a href="https://packagist.org/packages/nhrrob/contact"><img src="https://img.shields.io/packagist/dt/nhrrob/contact.svg?style=flat-square" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/nhrrob/contact"><img src="https://img.shields.io/packagist/v/nhrrob/contact" alt="Latest Stable Version"></a>
