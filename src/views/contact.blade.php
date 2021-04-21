@@ -10,7 +10,7 @@
 
 <body>
     <div style="padding: 30px;">
-        <h1 style="margin: 0;">Feel free to contact us</h1>
+        <h1 style="margin: 0;">Feel free to contact us!</h1>
 
         <form action="{{route('contact.store')}}" method="POST">
             @csrf
