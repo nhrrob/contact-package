@@ -1,6 +1,6 @@
 {
     "name": "nhrrob/contact",
-    "description": "Sends email to admin email and also store user data in database",
+    "description": "This package sends email to admin email and also store user data in database",
     "type": "library",
     "license": "MIT",
     "authors": [
