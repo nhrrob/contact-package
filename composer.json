@@ -1,0 +1,19 @@
+{
+    "name": "nhrrob/contact",
+    "description": "Sends email to admin email and also store user data in database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nazmul Hasan Robin",
+            "email": "robin.sust08@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Nhrrob\\Contact\\": "src/"
+        }
+    }
+}
