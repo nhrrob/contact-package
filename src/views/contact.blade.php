@@ -8,7 +8,7 @@
     <title>Contact Us</title>
 </head>
 
-<body>
+<body> 
     <div style="padding: 30px;">
         <h1 style="margin: 0;">Feel free to contact us!</h1>
 
