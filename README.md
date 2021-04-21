@@ -1,4 +1,4 @@
-# Contact Form Package from NHRROB
+# NHRROB Contact Form Package
 
 <p align="left">
 <a href="https://github.com/nhrrob/contact-package/stargazers"><img src="https://img.shields.io/github/stars/nhrrob/contact-package?style=flat-square" alt="Stars"></a>
